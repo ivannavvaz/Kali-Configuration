@@ -1,9 +1,6 @@
 <h1 align="center">Ivan Kali-Linux Configuration</h1>
 
-<p align="center">
-<img src="https://github.com/Lafassj/KaliLafa/assets/131805585/e0645b42-57de-49a4-ae9b-1972797f0615">
-<img src="https://github.com/Lafassj/KaliLafa/assets/131805585/68451a12-9533-4466-b141-cff9994627f3">
-</p>
+![kaliDesktop](https://github.com/ivannavvaz/kali-Configuration/assets/123501884/36f56407-25a8-4858-8f2d-0c5e3084affc)
 
 # Uso del Script 
 
