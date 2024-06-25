@@ -6,49 +6,26 @@
 
 # Uso del Script 
 
+This script is designed to run on Kali Linux only.
+
 ```bash
 git clone https://github.com/Lafassj/KaliLafa.git
 cd KaliLafa
 chmod +x install.sh
 ./install.sh
 ```
-Este Script esta diseñado para solo funcionar en Kali Linux
 
-# Wallpaper
+# REFERENCES
+This script was designed by them, I only modified the dotfiles. 
+Github of the creators:
 
-El wallpaper lo puedes modificar cambiando el nombre en el bspwmrc
-
-# Nvim
-
-Esta no esta incluida en el scripts
-
-
-# UNA MENCION HONORIFICA 
-A ZLcube y a sus compis Mr. Pr1ngl3s, y a xjacksx por su colaboración, Este script fue dise#ado por ellos yo solo modifique los dotfiles te dejo el enlace a los perfiles de cada uno de ellos.
-
-ZLCube en todos lados
-
-https://www.youtube.com/@zlcube9936
-
-https://www.twitter.com/zlcube
-
-https://www.tiktok.com/@zlcube
-
-https://www.twitch.tv/zlcube
-
-https://www.instagram.com/zlcube
-
+zlcube https://github.com/zlcube
 
 xJacksx https://github.com/xJackSx/
 
 Mr.Pr1ngl3s https://github.com/MrPr1ngl3s
 
 S4vitar https://github.com/s4vitar
-
-
-# Si necesitas más ayuda con la configuración pica en la imagen que te lleva al tutorial
-
-https://www.youtube.com/watch?v=Mk8rG-Eu0vI
 
 # shortcuts
 ```bash
