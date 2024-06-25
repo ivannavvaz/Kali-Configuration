@@ -9,7 +9,7 @@
 This script is designed to run on Kali Linux only.
 
 ```bash
-git clone https://github.com/Lafassj/KaliLafa.git
+git clone https://github.com/ivannavvaz/
 cd KaliLafa
 chmod +x install.sh
 ./install.sh
@@ -31,7 +31,6 @@ S4vitar https://github.com/s4vitar
 # Main Shortcuts
 
 ```bash
-===========================================================================================================
 windows + enter: open terminal 
 windows + q: close window
 windows + d: open rofi
@@ -43,7 +42,6 @@ control + shift + alt + t: rename terminal tab
 control + shift + w: close terminal tab
 windows + "1,2,3,4,5,6,7,8,9,0": change desktop
 windows + shift + "1,2,3,4,5,6,7,8,9,0": change window desktop
-============================================================================================================
 ```
 
 
