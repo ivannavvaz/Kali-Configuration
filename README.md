@@ -15,6 +15,13 @@ chmod +x install.sh
 ./install.sh
 ```
 
+# Potential Problems
+
+## Ethernet Polybar Section not Working
+
+Change ethernet adapter in the script:
+~/.config/bin/ethernet_status.sh
+
 # References
 
 This script was designed by them, I only modified the dotfiles. 
