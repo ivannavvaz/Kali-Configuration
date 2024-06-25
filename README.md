@@ -9,8 +9,8 @@
 This script is designed to run on Kali Linux only.
 
 ```bash
-git clone https://github.com/ivannavvaz/
-cd KaliLafa
+git clone https://github.com/ivannavvaz/Kali-Configuration
+cd Kali-Configuration
 chmod +x install.sh
 ./install.sh
 ```
