@@ -4,7 +4,7 @@
 
 ![kaliDesktop2](https://github.com/ivannavvaz/kali-Configuration/assets/123501884/46f3f30e-d5f0-430b-bca2-35529271f15d)
 
-# Uso del Script 
+# Steps to Use
 
 This script is designed to run on Kali Linux only.
 
@@ -15,7 +15,8 @@ chmod +x install.sh
 ./install.sh
 ```
 
-# REFERENCES
+# References
+
 This script was designed by them, I only modified the dotfiles. 
 Github of the creators:
 
@@ -27,21 +28,21 @@ Mr.Pr1ngl3s https://github.com/MrPr1ngl3s
 
 S4vitar https://github.com/s4vitar
 
-# shortcuts
+# Main Shortcuts
+
 ```bash
 ===========================================================================================================
-windows + enter abre terminal 
-windows + w cierra terminal
-windows + d abre el buscador de aplicaciones
-windows hold mover libremente la ventana
-windows clic derecho reescalar libremente la ventana
-windows + alt + flechas escalar ventana
-windows + ctl + flechas mover ventana
-control + shift + t abre pestaña en terminal
-control shift alt t renombrar pestaña de terminal
-control shift w cerrar pestaña de terminal
-windows + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio
-windows + shift + "1,2,3,4,5,6,7,8,9,0" cambiar de escritorio la ventana actual al escritorio seleccionado
+windows + enter: open terminal 
+windows + q: close window
+windows + d: open rofi
+windows + w: open firefox
+windows + n: open thunar
+windows + hold: move window
+control + shift + t: open terminal tab
+control + shift + alt + t: rename terminal tab
+control + shift + w: close terminal tab
+windows + "1,2,3,4,5,6,7,8,9,0": change desktop
+windows + shift + "1,2,3,4,5,6,7,8,9,0": change window desktop
 ============================================================================================================
 ```
 
