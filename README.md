@@ -1,4 +1,4 @@
-<h1 align="center">Kali Linux Minimalistta</h1>
+<h1 align="center">Ivan Kali-Linux Configuration</h1>
 
 <p align="center">
 <img src="https://github.com/Lafassj/KaliLafa/assets/131805585/e0645b42-57de-49a4-ae9b-1972797f0615">
